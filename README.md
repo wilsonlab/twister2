@@ -19,7 +19,7 @@ turns per direction. The speed of the twister can also be controlled.
 - Power the device.
 - Place your finger on the control knob. This is the device's only user input
   mechanism.
-![Control Knob](./resources/protoype.jpg)
+![Control Knob](./resources/prototype.jpg)
     - __Pressing it__ will cycle through different settings (forward turns,
       backward turns, turn speed)
     - __Turning it__ will increment or decrement the selected setting depending
